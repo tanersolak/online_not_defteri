@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Numans', sans-serif;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #FFC312; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(51, 51, 51);
+  
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(0, 0, 0); 
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  
+  
+}
+
+.sidenav {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  float: left;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #1b1b1b;
+  overflow-x: hidden;
+  padding-top: 30px;
+  
+  
+}
+
+.sidenav p{
+  padding: 8px 8px 8px 32px;
+  font-size: 1.5vw;
+  color: #FFC312;
+  display: block;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 1.5vw;
+  color: #FFC312;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+  font-size: 1.7vw;
+}
+a.active{
+  color: #f1f1f1;
+  font-size: 1.5vw;
+}
+
+
+
+#sidebar {
+    font-size:30px;cursor:pointer; margin-top: auto; margin-bottom: auto;
+}
+
+#userpp {
+  width: 100px;
+  height: 100px;
+  margin-left:auto ;
+  margin-right: auto;
+}
+ 
+
+
+.liste {
+  width: 80%;
+  height: fit-content;
+  float: right;
+  background-color: #646464;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  padding-left: 50px;
+}
+
+#update {
+
+  width: 100px; height: 30px; border-radius: 15px; position: absolute; left: 50%; transform: translateX(-50%); bottom: 15px;
+}
+#update:hover {
+  background-color: white;
+}
+
+.font {
+  font-size: 20px; font-family: Arial, Helvetica, sans-serif;
+}
+
