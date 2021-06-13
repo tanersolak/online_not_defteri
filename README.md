@@ -20,7 +20,7 @@ Kullanıcıların internete bağlı herhangi bir cihazdan kendi notlarını gör
 
 - Kaydolduktan sonra hesabınıza giriş yapabilirsiniz.
 
-<img src="images/kurulum_1.png">
+<img src="images/kullanım_1.png">
 
 - Anasayfada önceden yazdığınız notlar listelenir ve yenisini yazabileceğiniz bölüm bulunmaktadır. Önceki notlarınızı düzenleyebilir veya silebilirsiniz.
 
