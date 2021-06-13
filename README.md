@@ -6,10 +6,11 @@ Bursa Teknik Üniversitesi Web Tabanlı Programlama Dilleri dersi için PHP ve M
 ## Amaç
 Kullanıcıların internete bağlı herhangi bir cihazdan kendi notlarını görebilmesini sağlamak.
 ## Nasıl Kullanılır?
+Kaydolma ekranında istenen bilgileri girerek kaydolunuz.
+
+<img src="images/kullanım_2.png">
 
 
-# Oyun İçi Görüntü
-<img src="images/Game.jpeg">
 
 # Kullanılan Teknolojiler
 - HTML
