@@ -8,7 +8,7 @@ Kullanıcıların internete bağlı herhangi bir cihazdan kendi notlarını gör
 ## Nasıl Kullanılır?
 Kaydolma ekranında istenen bilgileri girerek kaydolunuz.
 
-<img src="images/kullanım_2.png">
+<img src="images/kurulum_2.png">
 
 
 
