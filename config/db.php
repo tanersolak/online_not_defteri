@@ -1,6 +1,6 @@
 <?php 
 
-$conn = mysqli_connect('localhost', '284043', '123456789', '284043');
+$conn = mysqli_connect('localhost', '', '', '');
 
 if ($conn->connect_error){
     die("Database error: ".$conn->connect_error);
